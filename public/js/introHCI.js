@@ -10,7 +10,7 @@ $(document).ready(function() {
  */
 function initializePage() {
 	console.log("Page ready");
- 	//ßinitCamera();
+ 	initCamera();
  	initMap();
  	initGestures();
  	initRSVPForm();
